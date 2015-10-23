@@ -28,6 +28,7 @@ h6 {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
+    color: #c69f00;
 }
 
 p {
@@ -54,7 +55,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #11505d;
+    color: #DA3535;
 }
 
 img {
@@ -370,4 +371,14 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+
+.subsection {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.snapshot-desc {
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
