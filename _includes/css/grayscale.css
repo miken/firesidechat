@@ -330,6 +330,10 @@ ul.banner-social-buttons li {
 }
 
 @media(max-width:767px) {
+    body {
+        position: absolute;
+    }
+
     ul.banner-social-buttons li {
         display: block;
         margin-bottom: 20px;
