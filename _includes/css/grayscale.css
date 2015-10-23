@@ -331,14 +331,7 @@ ul.banner-social-buttons li {
 
 @media(max-width:767px) {
     body {
-        padding-right: 0;
-        padding-left: 0;
-    }
-    .navbar-fixed-top,
-    .navbar-fixed-bottom,
-    .navbar-static-top {
-        margin-right: 0;
-        margin-left: 0;
+        position: absolute;
     }
 
     ul.banner-social-buttons li {
