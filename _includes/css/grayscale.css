@@ -378,11 +378,24 @@ body {
 }
 
 .subsection {
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 .snapshot-desc {
     padding-top: 30px;
     padding-bottom: 30px;
+}
+
+.bio {
+    font-size: 16px;
+}
+
+.speakername {
+    margin-bottom: 0;
+}
+
+.speakerprof {
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
